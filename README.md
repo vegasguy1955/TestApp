@@ -1,2 +1,2 @@
-# App1
+# TestApp
 App Center test
